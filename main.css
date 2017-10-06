@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+
+}
+.titulo-color{
+    background: -webkit-linear-gradient(left,#01A1A1, yellow);
+    font-family: 'VT323', monospace;
+    padding-bottom: 1%;
+    padding-top: 2%;
+}
+h1{
+    color: white;
+}
+.icon{
+    width: 15%;
+}
+
+.enlaces {
+    border-top: 2px dotted gray;
+}
